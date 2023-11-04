@@ -6,8 +6,6 @@
 ################################################################################
 #                                                                              #
 #      Progetto per il corso di "Metodi Statistici per Big Data" a cura di:    #
-#                        Brunello Irene, 2002694.                              #
-#                      Gastaldello Matteo, 2012098;                            #
 #                        Tedesco Gaetano, 2006924.                             #
 #                                                                              #
 ################################################################################
