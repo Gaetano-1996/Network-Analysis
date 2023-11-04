@@ -5,13 +5,6 @@
 #                                                                              #
 ################################################################################
 #                                                                              #
-#      Progetto per il corso di "Metodi Statistici per Big Data" a cura di:    #
-#                        Brunello Irene, 2002694.                              #
-#                      Gastaldello Matteo, 2012098;                            #
-#                        Tedesco Gaetano, 2006924.                             #
-#                                                                              #
-################################################################################
-#                                                                              #
 #  Il presente script presenta step by step il codice utilizzato per svolgere  # 
 #                              l' analisi.                                     #
 #  Prima dell'esecuzione del seguente codice consigliamo la letture del file   #
