@@ -19,4 +19,5 @@ The project is structured as follows:
 - `install_dependencies.R`: contains the R command to install all the necessary dependencies in orther to run the analysis.
 
 ## Next Steps
+- [ ] Translate the results paper in english.
 - [ ] Create a Shiny app to visualize the network interactively.
