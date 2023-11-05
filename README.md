@@ -9,7 +9,7 @@ We then convert text data into network structured data and perform a community d
 The project is structured as follows:
 - `Analysis.R`: contanins the code for replicating the analysis.
 - `school_net_lib.R`: contains all the functions defined to perfrom the analysis from the data retrivial to the community detection.
-- In the `Grafici` folder there are the plots of the network made using the software Gephi.
+- In the `figures` folder there are the plots of the network made using the software Gephi.
 - `Scuola_di_Ingegneria.csv` and `Scuola_di_Scienze.csv` are the data retrived from the web scraping.
 
 ## Next Steps
