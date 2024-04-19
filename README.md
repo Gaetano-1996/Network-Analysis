@@ -16,7 +16,7 @@ The project is structured as follows:
 - `school_net_lib.R`: contains all the functions defined to perfrom the analysis from the data retrivial to the community detection.
 - In the `figures` folder there are the plots of the network made using the software Gephi.
 - `Scuola_di_Ingegneria.csv` and `Scuola_di_Scienze.csv` are the data retrived from the web scraping.
-- `install_dependencies.R`: contains the R command to install all the necessary dependencies in orther to run the analysis.
+- `install_dependencies.R`: contains the R command to install all the necessary dependencies in order to run the analysis.
 
 ## Next Steps
 - [ ] Translate the results paper in english.
